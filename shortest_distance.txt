@@ -1,0 +1,182 @@
+
+
+Information from Akka to Haifa:
+
+Dijkstra:
+Path: Akka -> Haifa 
+Distance from source to destination: 35
+
+
+BFS:
+Path: Akka -> Haifa
+Cost: 35 km
+Number of edges: 1
+
+
+Information from Jenin to Tubas:
+
+Dijkstra:
+Path: Jenin -> Tubas 
+Distance from source to destination: 30
+
+
+BFS:
+Path: Jenin -> Tubas
+Cost: 30 km
+Number of edges: 1
+
+
+Information from Bethlehem to Akka:
+
+Dijkstra:
+Path: Bethlehem -> Jerusalem -> Ramallah -> Salfit -> Tulkarem -> Haifa -> Nazareth -> Akka 
+Distance from source to destination: 271
+
+
+BFS:
+Path: Bethlehem -> Jaffa -> Qalqilya -> Tulkarem -> Haifa -> Nazareth -> Akka
+Cost: 339 km
+Number of edges: 6
+
+
+Information from Ramallah to Haifa:
+
+Dijkstra:
+Path: Ramallah -> Salfit -> Tulkarem -> Haifa 
+Distance from source to destination: 148
+
+
+BFS:
+Path: Ramallah -> Salfit -> Tulkarem -> Haifa
+Cost: 148 km
+Number of edges: 3
+
+
+Information from Hebron to Tubas:
+
+Dijkstra:
+Path: Hebron -> Jerusalem -> Ramallah -> Salfit -> Tulkarem -> Haifa -> Jenin -> Tubas 
+Distance from source to destination: 282
+
+
+BFS:
+Path: Hebron -> Jerusalem -> Ramallah -> Salfit -> Tulkarem -> Haifa -> Jenin -> Tubas
+Cost: 282 km
+Number of edges: 7
+
+
+Information from Tubas to Hebron:
+
+Dijkstra:
+Path: Tubas -> Jericho -> Ramallah -> Bethlehem -> Hebron 
+Distance from source to destination: 180
+
+
+BFS:
+Path: Tubas -> Jericho -> Ramallah -> Bethlehem -> Hebron
+Cost: 180 km
+Number of edges: 4
+
+
+Information from Jericho to Hebron:
+
+Dijkstra:
+Path: Jericho -> Ramallah -> Bethlehem -> Hebron 
+Distance from source to destination: 128
+
+
+BFS:
+Path: Jericho -> Ramallah -> Bethlehem -> Hebron
+Cost: 128 km
+Number of edges: 3
+
+
+Information from Hebron to Tulkarem:
+
+Dijkstra:
+Path: Hebron -> Jerusalem -> Ramallah -> Salfit -> Tulkarem 
+Distance from source to destination: 146
+
+
+BFS:
+Path: Hebron -> Jerusalem -> Ramallah -> Salfit -> Tulkarem
+Cost: 146 km
+Number of edges: 4
+
+
+Information from Hebron to Haifa:
+
+Dijkstra:
+Path: Hebron -> Jerusalem -> Ramallah -> Salfit -> Tulkarem -> Haifa 
+Distance from source to destination: 203
+
+
+BFS:
+Path: Hebron -> Jerusalem -> Ramallah -> Salfit -> Tulkarem -> Haifa
+Cost: 203 km
+Number of edges: 5
+
+
+Information from Bethlehem to Haifa:
+
+Dijkstra:
+Path: Bethlehem -> Jerusalem -> Ramallah -> Salfit -> Tulkarem -> Haifa 
+Distance from source to destination: 178
+
+
+BFS:
+Path: Bethlehem -> Jaffa -> Qalqilya -> Tulkarem -> Haifa
+Cost: 246 km
+Number of edges: 4
+
+
+Information from Bethlehem to Haifa:
+
+Dijkstra:
+Path: Bethlehem -> Jerusalem -> Ramallah -> Salfit -> Tulkarem -> Haifa 
+Distance from source to destination: 178
+
+
+BFS:
+Path: Bethlehem -> Jaffa -> Qalqilya -> Tulkarem -> Haifa
+Cost: 246 km
+Number of edges: 4
+
+
+Information from Akka to Jenin:
+
+Dijkstra:
+Path: Akka -> Jenin 
+Distance from source to destination: 74
+
+
+BFS:
+Path: Akka -> Jenin
+Cost: 74 km
+Number of edges: 1
+
+
+Information from Hebron to Haifa:
+
+Dijkstra:
+Path: Hebron -> Jerusalem -> Ramallah -> Salfit -> Tulkarem -> Haifa 
+Distance from source to destination: 203
+
+
+BFS:
+Path: Hebron -> Jerusalem -> Ramallah -> Salfit -> Tulkarem -> Haifa
+Cost: 203 km
+Number of edges: 5
+
+
+Information from Bethlehem to Haifa:
+
+Dijkstra:
+Path: Bethlehem -> Jerusalem -> Ramallah -> Salfit -> Tulkarem -> Haifa 
+Distance from source to destination: 178
+
+
+BFS:
+Path: Bethlehem -> Jaffa -> Qalqilya -> Tulkarem -> Haifa
+Cost: 246 km
+Number of edges: 4
